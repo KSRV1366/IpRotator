@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IpRotator</string>
+    <string name="accessibility_desc">IP Rotator UI Automator: Used to automatically pull down the Quick Settings menu and turn on your Mobile Hotspot and Mobile Data without requiring root access.</string>
+</resources>
